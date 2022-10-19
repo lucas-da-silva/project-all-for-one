@@ -10,5 +10,4 @@ Besides, all the queries I used are in the [challenges](./challenges/) directory
 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="60" height="60" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" alt="Docker" /></a>
 </p>
