@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Welcome to the All for One project repository!
+
+This project was developed using mySQL, being a very simple project, where I practiced several commands to select, read, update and delete (<strong>CRUD</strong>) data from the Northwind database.
+
+Besides, all the queries I used are in the [challenges](./challenges/) directory.
+
+> Apart from the challenges directory and README.md, the other files were developed by [Trybe](https://github.com/tryber).
+
+## Technologies used:
+
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="60" height="60" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" alt="Docker" /></a>
+</p>
